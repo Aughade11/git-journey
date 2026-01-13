@@ -1,0 +1,55 @@
+[33mcommit 1a3573c2af98c23107ebbba3b66cdaefad7d003d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mstaging[m[33m, [m[1;32mdevelop[m[33m)[m
+Merge: 1fbacf1 b8ae833
+Author: Anushka Ughade <anushkaughade11@gmail.com>
+Date:   Mon Jan 12 15:32:28 2026 +0530
+
+    Merge conflict solved
+
+[33mcommit 1fbacf138a70e890aec5a231d20a97c37dc34d42[m
+Author: Anushka Ughade <anushkaughade11@gmail.com>
+Date:   Mon Jan 12 15:30:42 2026 +0530
+
+    added 444
+
+[33mcommit b8ae8335e477c09d3b8dda345a640d3d20ef38b2[m
+Author: Anushka Ughade <anushkaughade11@gmail.com>
+Date:   Mon Jan 12 15:29:31 2026 +0530
+
+    changed 44
+
+[33mcommit 8e877ed8f064f62b1882997fab3d8eb2ba52906e[m
+Merge: 03dd2e9 3f56ea0
+Author: Anushka Ughade <anushkaughade11@gmail.com>
+Date:   Mon Jan 12 15:26:09 2026 +0530
+
+    Merging main into develop
+
+[33mcommit 3f56ea0e678d8ae6d7315da1b616b662d8cf29bf[m
+Author: Anushka Ughade <anushkaughade11@gmail.com>
+Date:   Mon Jan 12 15:24:46 2026 +0530
+
+    i edited four.txt
+
+[33mcommit 03dd2e92f82ac81c376fff8881e95f087718dba8[m
+Author: Anushka Ughade <anushkaughade11@gmail.com>
+Date:   Mon Jan 12 15:22:13 2026 +0530
+
+    I created three.txt
+
+[33mcommit bb5bd7ffc235b3310a8373f0ad00e8eeb76aeda6[m
+Author: Anushka Ughade <anushkaughade11@gmail.com>
+Date:   Mon Jan 12 13:45:51 2026 +0530
+
+    I HAVE MADE SOME CHANGES TO THE FILE
+
+[33mcommit 029af19a1c0e29d1df886cbd75c4dbf32f0ad594[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Anushka Vishal Ughade <155183048+Aughade11@users.noreply.github.com>
+Date:   Mon Jan 12 11:43:08 2026 +0530
+
+    Create two.txt
+
+[33mcommit 19d9847332eb229c11ffa81551c517fcb6853d47[m
+Author: Anushka Vishal Ughade <155183048+Aughade11@users.noreply.github.com>
+Date:   Mon Jan 12 11:42:38 2026 +0530
+
+    Create one.txt
